@@ -1,2 +1,3 @@
 line one in new file
 second line in remote
+third master
